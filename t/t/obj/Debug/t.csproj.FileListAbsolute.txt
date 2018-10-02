@@ -1,0 +1,9 @@
+D:\eait-41\t\t\bin\Debug\t.exe.config
+D:\eait-41\t\t\bin\Debug\t.exe
+D:\eait-41\t\t\bin\Debug\t.pdb
+D:\eait-41\t\t\obj\Debug\t.csprojResolveAssemblyReference.cache
+D:\eait-41\t\t\obj\Debug\t.Form1.resources
+D:\eait-41\t\t\obj\Debug\t.Properties.Resources.resources
+D:\eait-41\t\t\obj\Debug\t.csproj.GenerateResource.Cache
+D:\eait-41\t\t\obj\Debug\t.exe
+D:\eait-41\t\t\obj\Debug\t.pdb
